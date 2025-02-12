@@ -50,7 +50,7 @@ My research interest includes control barrier function, machine learning, Gaussi
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
-# 🗓️ Participated Project
+# 📚 Participated Project
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 💻 Service and Work Experience
