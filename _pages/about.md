@@ -22,9 +22,15 @@ I am currently a fourth-year Ph.D. candidate in Computer Science at the [Austral
 My research interest includes control barrier function, machine learning, Gaussian processes, adaptive control, fault-tolerant control, synchronization, and passivity. My work focues on safe control and learning for dynamical systems under uncertain environments and system faults. My work emphasizes rigorous theoretical analysis and proof-of-concept validation to ensure system safety during both control and learning processes. Throughout my academic career, I have published more than 16 SCI papers <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at IEEE Transactions such as TCYB, TNSE, and TNNLs. 
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 Recent News (last update: Jan. 2025)
+- *2025.01*: &nbsp;🎉 Our paper is accepted by IEEE Transactions on Cybernetics. 
+- *2024.09*: &nbsp;🎉 Our paper is published on International Journal of Network Dynamics and Intelligence.
+- *2023.06*: &nbsp;🎉 Our paper is published on Neural Networks.
+- *2023.02*: &nbsp;🎉 Our paper is published on IEEE Transactions on Network Science and Engineering.
+- *2022.12*: &nbsp;🎉 Our paper is published on IEEE Transactions on Cybernetics.
+- *2022.08*: &nbsp;🎉 Our paper is published on IEEE Transactions on Network Science and Engineering.
+- *2022.07*: &nbsp;🎉 Our paper is published on IEEE Transactions on Neural Networks and Learning Systems.
+- *2022.02*: &nbsp;🎉 Our paper is published on IEEE Transactions on Network Science and Engineering.
 
 # 📝 Publications 
 
