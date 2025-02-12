@@ -48,11 +48,6 @@ My research interest includes control theory and machine learning. The major top
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.08* China Scholarship Council. 
-- *2020.10* National Scholarship (Master).
-- *2019.03* Honorary Title of University Level Project in Master of Science in Technology Innovation Training Program
-
 # 📚 Participated Project
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
