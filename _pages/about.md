@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth-year Ph.D. candidate in Computer Science at the [Australian Artificial Intelligence Institute (AAII)](https://www.uts.edu.au/research/australian-artificial-intelligence-institute), within the [Faculty of Engineering and Information Technology](https://www.uts.edu.au/about/faculty-engineering-and-information-technology) at the University of Technology Sydney (UTS), Australia. I am fortunate to be co-advised by [Pro.f Shiping Wen](https://profiles.uts.edu.au/Shiping.Wen) and [Dr. Feng Liu](https://profiles.uts.edu.au/Feng.Liu). Prior to my doctoral studies at UTS, I completed my M.S. degree at Tiangong University (Tianjin, China) under the supervision of [Prof. Jinliang Wang(https://scholar.google.com/citations?hl=en&user=7NfLSq0AAAAJ)] and my B.S. degree at Hebei University of Architecture (Zhangjiakou, Hebei, China). 
+I am currently a fourth-year Ph.D. candidate in Computer Science at the [Australian Artificial Intelligence Institute (AAII)](https://www.uts.edu.au/research/australian-artificial-intelligence-institute), within the [Faculty of Engineering and Information Technology (FEIT)](https://www.uts.edu.au/about/faculty-engineering-and-information-technology) at the University of Technology Sydney (UTS), Australia. I am fortunate to be co-advised by [Pro.f Shiping Wen](https://profiles.uts.edu.au/Shiping.Wen) and [Dr. Feng Liu](https://profiles.uts.edu.au/Feng.Liu). Prior to my doctoral studies at UTS, I completed my M.S. degree at Tiangong University (Tianjin, China) under the supervision of [Prof. Jinliang Wang(https://scholar.google.com/citations?hl=en&user=7NfLSq0AAAAJ)] and my B.S. degree at Hebei University of Architecture (Zhangjiakou, Hebei, China). 
 
 My research interest includes control barrier function, machine learning, Gaussian processes, adaptive control, fault-tolerant control, synchronization, and passivity. My work focues on safe control and learning for dynamical systems under uncertain environments and system faults. My work emphasizes rigorous theoretical analysis and proof-of-concept validation to ensure system safety during both control and learning processes. Throughout my academic career, I have published more than 16 SCI papers <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at IEEE Transactions such as TCYB, TNSE, and TNNLs. 
 
@@ -49,12 +49,14 @@ My research interest includes control barrier function, machine learning, Gaussi
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.08* China Scholarship Council. 
+- *2020.10* National Scholarship (Master).
+- *2019.03* Honorary Title of University Level Project in Master of Science in Technology Innovation Training Program
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2021.08 - now*, Ph.D in Computer Science, AAII, FEIT, University of Technology Sydney, Sydney, Australia. 
+- *2018.09 - 2021.04*, Master in Computer Science and Technology, School of Computer Science and Technology, Tiangong University, Tianjin, China.
+- *2014.09 - 2018.06*, Bachelor in Internet of Things Engineering, School of Information Engineering, Hebei University of Architecture, Zhangjiakou, Hebei, China.
 
 # 📚 Participated Project
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
