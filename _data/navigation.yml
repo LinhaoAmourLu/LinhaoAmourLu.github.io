@@ -3,14 +3,11 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Recent News"
+    url: "/#-recent-news"
 
   - title: "Publications"
     url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
 
   - title: "Participated Project"
     url: "/#-participated-project" 
