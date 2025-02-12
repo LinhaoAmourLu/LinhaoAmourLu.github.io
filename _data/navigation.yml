@@ -15,8 +15,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
     
-  - title: "Participated Project"
-    url: "/#-participated-project"
+  - title: "Project"
+    url: "/#-project"
 
   - title: "Service and Work Experience"
     url: "/#-service-and-work-experience"
