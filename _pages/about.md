@@ -53,11 +53,6 @@ My research interest includes control theory and machine learning. The major top
 - *2020.10* National Scholarship (Master).
 - *2019.03* Honorary Title of University Level Project in Master of Science in Technology Innovation Training Program
 
-# 📖 Educations
-- *2021.08 - now*, Ph.D in Computer Science, AAII, FEIT, University of Technology Sydney, Sydney, Australia. 
-- *2018.09 - 2021.04*, Master in Computer Science and Technology, School of Computer Science and Technology, Tiangong University, Tianjin, China.
-- *2014.09 - 2018.06*, Bachelor in Internet of Things Engineering, School of Information Engineering, Hebei University of Architecture, Zhangjiakou, Hebei, China.
-
 # 📚 Participated Project
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
