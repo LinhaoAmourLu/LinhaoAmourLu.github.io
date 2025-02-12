@@ -22,7 +22,7 @@ I am currently a fourth-year Ph.D. candidate in Computer Science at the [Austral
 My research interest includes control theory and machine learning. The major topic of my research is safe control, Gaussian processes, and adaptive control. My work focues on safe control and learning for dynamical systems, including safe control design, system modeling, and the applications in vehicle platooning system and robotics. Currently, I am focusing on control barrier function method and Gaussian processes. Throughout my academic career, I have published more than 16 SCI papers <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at IEEE Transactions such as TCYB, TNSE, and TNNLs. 
 
 
-# 🔥 Recent News (last update: Jan. 2025)
+# 🔥 Recent News
 - *2025.01*: &nbsp;🎉 Our paper is accepted by IEEE Transactions on Cybernetics. 
 - *2024.09*: &nbsp;🎉 Our paper is published on International Journal of Network Dynamics and Intelligence.
 - *2023.06*: &nbsp;🎉 Our paper is published on Neural Networks.
