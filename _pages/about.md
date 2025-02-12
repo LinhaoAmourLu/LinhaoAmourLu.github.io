@@ -53,7 +53,7 @@ My research interest includes control barrier function, machine learning, Gaussi
 # 💻 Service and Work Experience
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-# 📚 Peer Review Activities
+# 📚 Participated Project
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 🗓️ Peer Review Activities1
