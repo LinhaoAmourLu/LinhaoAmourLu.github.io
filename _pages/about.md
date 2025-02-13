@@ -34,7 +34,7 @@ My research interest includes control theory and machine learning. The major top
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCYB</div><img src='images/GP_TCYB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems
@@ -52,13 +52,26 @@ Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems
 - [A Recent Survey on Control for Synchronization and Passivity of Complex Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9851567), **Linhao Zhao**, Shiping Wen, Zhengyuan Guo, Kaibo Shi, Jianying Xiao, Song Zhu, **IEEE Transactions on Network Science and Engineering**, 2022.
 - [PID Control for Output Synchronization of Multiple Output Coupled Complex Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9714017), **Linhao Zhao**, Shiping Wen, Min Xu, Kaibo Shi, Song Zhu, Tingwen Huang, **IEEE Transactions on Network Science and Engineering**, 2022.
 - [Lag $\mathcal{H}_{\infty}$ Synchronization and Lag Synchronization for Multiple Derivative Coupled Complex Networks](https://www.sciencedirect.com/science/article/pii/S0925231219317047), **Linhao Zhao**, Jin-Liang Wang, **Neurocomputing**, 2020.
-- [Lag $\mathcal{H}_{\infty}$ Synchronization and Lag Synchronization for Multiple Derivative Coupled Complex Networks](https://www.sciencedirect.com/science/article/pii/S0925231219317047), **Linhao Zhao**, Jin-Liang Wang, **Neurocomputing**, 2020.
+- [Lag Output Synchronization for Multiple Output Coupled Complex Networks with Positive Semidefinite or Positive Definite Output Matrix](https://www.sciencedirect.com/science/article/pii/S0016003219308646), **Linhao Zhao**, Jin-Liang Wang, Yu Zhang, **Journal of the Franklin Institute**, 2020.
+- [Finite-Time Passivity and Synchronization of Multi-Weighted Complex Dynamical Networks Under PD Control](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9785371), Jin-Liang Wang, **Linhao Zhao**, Huai-Ning Wu, Tingwen Huang, **IEEE Transactions on Neural Networks and Learning Systems**, 2024.
+- [Synchronization of coupled neural networks with multiple switching topologies via adaptive control techniques](https://www.sciencedirect.com/science/article/pii/S0016003219308646), Yuting Cao, **Linhao Zhao**, Qishui Zhong, kaibo Shi, Jianying Xiao, Shiping Wen, **International Journal of Robust and Nonlinear Control**, 2024.
+- [Adaptive PI control for $\mathcal{H}_{\infty}$ synchronization of multiple delayed coupled neural networks](https://www.sciencedirect.com/science/article/pii/S0925231223009785), Yuting Cao, **Linhao Zhao**, Qishui Zhong, Song Zhu, Zhengyuan Guo, Shiping Wen, **Neurocomputing**, 2023.
+- [Adaptive fixed-time output synchronization for complex dynamical networks with multi-weights](https://www.sciencedirect.com/science/article/pii/S0893608023001673), Yuting Cao, **Linhao Zhao**, Qishui Zhong, Shiping Wen, Kaibo Shi, Jianying Xiao, Tingwen Huang, **Neural Networks**, 2023.
+- [Finite-time passivity and synchronisation of complex networks with multiple output couplings](https://www.tandfonline.com/doi/full/10.1080/00207179.2022.2053208), Yepeng Liu **Linhao Zhao**, Yiwei Shi, Shun-Yan Ren, Jin-Liang Wang, **International Journal of Control**, 2023.
+- [Lag $\mathcal{H}_{\infty}$ synchronization of coupled neural networks with multiple state couplings and multiple delayed state couplings](https://www.sciencedirect.com/science/article/pii/S0893608022001101), Yuting Cao, **Linhao Zhao**, Shiping Wen, Tingwen Huang, **Neural Networks**, 2022.
+- [PD and PI Control for Passivity and Synchronization of Coupled Neural Networks with Multi-Weights](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9330554), Jin-Liang Wang, **Linhao Zhao**, **IEEE Transactions on Network Science and Engineering**, 2021.
+- [Topology identification of coupled neural networks with multiple weights](https://www.sciencedirect.com/science/article/pii/S0925231221009231), Han-Yu Wu, Lu Wang, **Linhao Zhao**, Jin-Liang Wang, 2021.
 
 # 📚 Participated Project
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.02 - 2025.02*, Conference Activities and Communications subcommittee in IEEE CIS, China.
 
 # 💻 Service and Work Experience
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.02 - 2025.02*, [Conference Activities and Communications subcommittee in IEEE CIS](https://cis.ieee.org/conferences/welcome-conferences/conferences-commitee/conference-activities-and-communications), Member.
+- *2021.07 - 2021.09*, Web Developer, Tianjin Baidarui Co., Ltd., Tianjin, China.
 
 # 🔎 Peer Review Activities
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- IEEE transactions on neural networks and learning systems.
+- IEEE/CAA journal of automatica sinica.
+- IEEE transactions on circuits and systems.
+- Neural networks.
+- International journal of robust and nonlinear control.
