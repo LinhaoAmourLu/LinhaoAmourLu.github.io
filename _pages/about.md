@@ -47,7 +47,15 @@ Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems
 - [Fixed-time Control for Multiple Switched Coupled Neural Networks](https://www.sciltp.com/journals/ijndi/article/view/526), **Linhao Zhao**, Boqian Li, **International Journal of Network Dynamics and Intelligence**, 2024.
 - [Robust $\mathcal{H}_{\infty}$ Pinning Synchronization for Multiweighted Coupled Reaction–Diffusion Neural Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9976043), **Linhao Zhao**, Shiping Wen, Song Zhu, Zhengyuan Guo, Tingwen Huang, **IEEE Transactions on Cybernetics**, 2023.
 - [Finite-Time Nonchattering Synchronization of Coupled Neural Networks With Multi-Weights](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/10048588), **Linhao Zhao**, Shiping Wen, Zhengyuan Guo, Kaibo Shi, Jianying Xiao, Song Zhu, **IEEE Transactions on Network Science and Engineering**, 2023.
-- [A Recent Survey on Control for Synchronization and Passivity of Complex Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9851567), **Linhao Zhao**, Shiping Wen, Zhengyuan Guo, Kaibo Shi, Jianying Xiao, Song Zhu, **IEEE Transactions on Network Science and Engineering**, 2022.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCYB</div><img src='images/MWCNs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Recent Survey on Control for Synchronization and Passivity of Complex Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9851567), **Linhao Zhao**, Shiping Wen, Zhengyuan Guo, Kaibo Shi, Jianying Xiao, Song Zhu, **IEEE Transactions on Network Science and Engineering**, 2022.
+  
+</div>
+</div>
+
 - [PID Control for Output Synchronization of Multiple Output Coupled Complex Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9714017), **Linhao Zhao**, Shiping Wen, Min Xu, Kaibo Shi, Song Zhu, Tingwen Huang, **IEEE Transactions on Network Science and Engineering**, 2022.
 - [Lag $\mathcal{H}_{\infty}$ Synchronization and Lag Synchronization for Multiple Derivative Coupled Complex Networks](https://www.sciencedirect.com/science/article/pii/S0925231219317047), **Linhao Zhao**, Jin-Liang Wang, **Neurocomputing**, 2020.
 - [Lag Output Synchronization for Multiple Output Coupled Complex Networks with Positive Semidefinite or Positive Definite Output Matrix](https://www.sciencedirect.com/science/article/pii/S0016003219308646), **Linhao Zhao**, Jin-Liang Wang, Yu Zhang, **Journal of the Franklin Institute**, 2020.
