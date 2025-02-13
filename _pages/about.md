@@ -48,7 +48,8 @@ Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems
 - [Robust $\mathcal{H}_{\infty}$ Pinning Synchronization for Multiweighted Coupled Reaction–Diffusion Neural Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9976043), **Linhao Zhao**, Shiping Wen, Song Zhu, Zhengyuan Guo, Tingwen Huang, **IEEE Transactions on Cybernetics**, 2023.
 - [Finite-Time Nonchattering Synchronization of Coupled Neural Networks With Multi-Weights](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/10048588), **Linhao Zhao**, Shiping Wen, Zhengyuan Guo, Kaibo Shi, Jianying Xiao, Song Zhu, **IEEE Transactions on Network Science and Engineering**, 2023.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCYB</div><img src='images/MWCNs.png' alt="sym" width="100%"></div></div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE</div><img src='images/MWCNs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Recent Survey on Control for Synchronization and Passivity of Complex Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9851567), **Linhao Zhao**, Shiping Wen, Zhengyuan Guo, Kaibo Shi, Jianying Xiao, Song Zhu, **IEEE Transactions on Network Science and Engineering**, 2022.
