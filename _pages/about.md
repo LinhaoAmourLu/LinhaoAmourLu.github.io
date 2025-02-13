@@ -41,8 +41,8 @@ My research interest includes control theory and machine learning. The major top
 
 Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems, **Linhao Zhao**, Guanghui Wen, Zhengyuan Guo, Song Zhu, Cheng Hu, Shiping Wen, **IEEE Transactions on Cybernetics**, 2025. 
 
-<div>
-<div>
+</div>
+</div>
 
 - [Fixed-time Control for Multiple Switched Coupled Neural Networks](https://www.sciltp.com/journals/ijndi/article/view/526), **Linhao Zhao**, Boqian Li, **International Journal of Network Dynamics and Intelligence**, 2024.
 - [Robust $\mathcal{H}_{\infty}$ Pinning Synchronization for Multiweighted Coupled Reaction–Diffusion Neural Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9976043), **Linhao Zhao**, Shiping Wen, Song Zhu, Zhengyuan Guo, Tingwen Huang, **IEEE Transactions on Cybernetics**, 2023.
