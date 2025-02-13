@@ -34,17 +34,12 @@ My research interest includes control theory and machine learning. The major top
 
 # 📝 Publications 
 
+[**Journal**]
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCYB</div><img src='images/GP_TCYB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems
-
-**Linhao Zhao**, Guanghui Wen, Zhengyuan Guo, Song Zhu, Cheng Hu, Shiping Wen
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems, **Linhao Zhao**, Guanghui Wen, Zhengyuan Guo, Song Zhu, Cheng Hu, Shiping Wen, **IEEE Transactions on Cybernetics**, 2025. 
 
 - [Fixed-time Control for Multiple Switched Coupled Neural Networks](https://www.sciltp.com/journals/ijndi/article/view/526), **Linhao Zhao**, Boqian Li, **International Journal of Network Dynamics and Intelligence**, 2024.
 - [Robust $\mathcal{H}_{\infty}$ Pinning Synchronization for Multiweighted Coupled Reaction–Diffusion Neural Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9976043), **Linhao Zhao**, Shiping Wen, Song Zhu, Zhengyuan Guo, Tingwen Huang, **IEEE Transactions on Cybernetics**, 2023.
@@ -60,7 +55,11 @@ Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems
 - [Finite-time passivity and synchronisation of complex networks with multiple output couplings](https://www.tandfonline.com/doi/full/10.1080/00207179.2022.2053208), Yepeng Liu **Linhao Zhao**, Yiwei Shi, Shun-Yan Ren, Jin-Liang Wang, **International Journal of Control**, 2023.
 - [Lag $\mathcal{H}_{\infty}$ synchronization of coupled neural networks with multiple state couplings and multiple delayed state couplings](https://www.sciencedirect.com/science/article/pii/S0893608022001101), Yuting Cao, **Linhao Zhao**, Shiping Wen, Tingwen Huang, **Neural Networks**, 2022.
 - [PD and PI Control for Passivity and Synchronization of Coupled Neural Networks with Multi-Weights](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9330554), Jin-Liang Wang, **Linhao Zhao**, **IEEE Transactions on Network Science and Engineering**, 2021.
-- [Topology identification of coupled neural networks with multiple weights](https://www.sciencedirect.com/science/article/pii/S0925231221009231), Han-Yu Wu, Lu Wang, **Linhao Zhao**, Jin-Liang Wang, 2021.
+- [Topology identification of coupled neural networks with multiple weights](https://www.sciencedirect.com/science/article/pii/S0925231221009231), Han-Yu Wu, Lu Wang, **Linhao Zhao**, Jin-Liang Wang, **Neurocomputing**, 2021.
+
+[**Conference**]
+- [PD Control for Finite-Time Passivity and Synchronization of Complex Networks with Multiple Weights](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9641313), Lu Wang, **Linhao Zhao**, Jin-Liang Wang, Yougang Bian, Manjiang Hu, **2021 IEEE International Conference on Unmanned Systems (ICUS)**, 2021.
+- [Generalized Lag Output Synchronization of the Multiple Output Coupled Complex Dynamical Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/8865162), **Linhao Zhao**, Shun-Yan Ren, Yi-Wei Shi Ye-Peng Liu, **2019 Chinese Control Conference (CCC)**, 2019.
 
 # 📚 Participated Project
 - *2023.02 - 2025.02*, Conference Activities and Communications subcommittee in IEEE CIS, China.
