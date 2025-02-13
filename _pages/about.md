@@ -39,7 +39,7 @@ My research interest includes control theory and machine learning. The major top
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCYB</div><img src='images/GP_TCYB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems, **Linhao Zhao**, Guanghui Wen, Zhengyuan Guo, Song Zhu, Cheng Hu, Shiping Wen, **IEEE Transactions on Cybernetics**, 2025. 
+Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems, **Linhao Zhao**, Guanghui Wen, Zhengyuan Guo, Song Zhu, Cheng Hu, Shiping Wen, **IEEE Transactions on Cybernetics**, 2025, Accept. 
 
 </div>
 </div>
