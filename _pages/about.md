@@ -39,7 +39,7 @@ My research interest includes control theory and machine learning. The major top
 
 Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems
 
-**Linhao Zhao**, Guanghui Wen, Zhengyuan Guo, Song Zhu, Cheng Hu, and, Shiping Wen
+**Linhao Zhao**, Guanghui Wen, Zhengyuan Guo, Song Zhu, Cheng Hu, Shiping Wen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -47,7 +47,12 @@ Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems
 </div>
 
 - [Fixed-time Control for Multiple Switched Coupled Neural Networks](https://www.sciltp.com/journals/ijndi/article/view/526), **Linhao Zhao**, Boqian Li, **International Journal of Network Dynamics and Intelligence**, 2024.
-- [Robust $\mathcal{H}_{\infty}$ Pinning Synchronization for Multiweighted Coupled Reaction–Diffusion Neural Networks] 
+- [Robust $\mathcal{H}_{\infty}$ Pinning Synchronization for Multiweighted Coupled Reaction–Diffusion Neural Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9976043), **Linhao Zhao**, Shiping Wen, Song Zhu, Zhengyuan Guo, Tingwen Huang, **IEEE Transactions on Cybernetics**, 2023.
+- [Finite-Time Nonchattering Synchronization of Coupled Neural Networks With Multi-Weights](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/10048588), **Linhao Zhao**, Shiping Wen, Zhengyuan Guo, Kaibo Shi, Jianying Xiao, Song Zhu, **IEEE Transactions on Network Science and Engineering**, 2023.
+- [A Recent Survey on Control for Synchronization and Passivity of Complex Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9851567), **Linhao Zhao**, Shiping Wen, Zhengyuan Guo, Kaibo Shi, Jianying Xiao, Song Zhu, **IEEE Transactions on Network Science and Engineering**, 2022.
+- [PID Control for Output Synchronization of Multiple Output Coupled Complex Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9714017), **Linhao Zhao**, Shiping Wen, Min Xu, Kaibo Shi, Song Zhu, Tingwen Huang, **IEEE Transactions on Network Science and Engineering**, 2022.
+- [Lag $\mathcal{H}_{\infty}$ Synchronization and Lag Synchronization for Multiple Derivative Coupled Complex Networks](https://www.sciencedirect.com/science/article/pii/S0925231219317047), **Linhao Zhao**, Jin-Liang Wang, **Neurocomputing**, 2020.
+- [Lag $\mathcal{H}_{\infty}$ Synchronization and Lag Synchronization for Multiple Derivative Coupled Complex Networks](https://www.sciencedirect.com/science/article/pii/S0925231219317047), **Linhao Zhao**, Jin-Liang Wang, **Neurocomputing**, 2020.
 
 # 📚 Participated Project
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
