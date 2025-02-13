@@ -48,7 +48,6 @@ Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems
 - [Robust $\mathcal{H}_{\infty}$ Pinning Synchronization for Multiweighted Coupled Reaction–Diffusion Neural Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9976043), **Linhao Zhao**, Shiping Wen, Song Zhu, Zhengyuan Guo, Tingwen Huang, **IEEE Transactions on Cybernetics**, 2023.
 - [Finite-Time Nonchattering Synchronization of Coupled Neural Networks With Multi-Weights](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/10048588), **Linhao Zhao**, Shiping Wen, Zhengyuan Guo, Kaibo Shi, Jianying Xiao, Song Zhu, **IEEE Transactions on Network Science and Engineering**, 2023.
 
-</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE</div><img src='images/MWCNs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -74,7 +73,11 @@ Probabilistic Model-Based Fault-Tolerant Control for Uncertain Nonlinear Systems
 - [Generalized Lag Output Synchronization of the Multiple Output Coupled Complex Dynamical Networks](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/8865162), **Linhao Zhao**, Shun-Yan Ren, Yi-Wei Shi Ye-Peng Liu, **2019 Chinese Control Conference (CCC)**, 2019.
 
 # 📚 Participated Project
-- *2023.02 - 2025.02*, Conference Activities and Communications subcommittee in IEEE CIS, China.
+- *2021.08 - 2025.08*, Safe Learning-Based Adaptive Control for Uncertain Faulty Systems Project (Leader).
+- *2024.07 - 2025.07*, Fault Detection and Fault-tolerant Control for Intelligent Vehicle Platooning Systems Project (Participant).
+- *2023.04 - 2024.03*, Learning-based Safety-critical Control Under the Cases of System Uncertainties and Faults Project (Leader).
+- *2019.04 - 2022.03*, Finite-Time Passivity for Complex Networks with Different Dimensions of the Input and Output Project (Participant).
+- *2019.03 - 2020.02*, Lag Output Synchronization for Multiple Output Coupled Complex Networks Project (Leader).
 
 # 💻 Service and Work Experience
 - *2023.02 - 2025.02*, [Conference Activities and Communications subcommittee in IEEE CIS](https://cis.ieee.org/conferences/welcome-conferences/conferences-commitee/conference-activities-and-communications), Member.
