@@ -23,6 +23,7 @@ My research interest includes control theory and machine learning. The major top
 
 
 # 🔥 Recent News
+- *2025.04*: &nbsp;🎉 Our paper is accepted by IEEE Transactions on Automzation Science and Engineering.
 - *2025.01*: &nbsp;🎉 Our paper is accepted by IEEE Transactions on Cybernetics. 
 - *2024.09*: &nbsp;🎉 Our paper is published on International Journal of Network Dynamics and Intelligence.
 - *2023.06*: &nbsp;🎉 Our paper is published on Neural Networks.
@@ -36,7 +37,7 @@ My research interest includes control theory and machine learning. The major top
 
 [**Journal**]
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCYB</div><img src='images/T-ASE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASE</div><img src='images/T-ASE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning-based Fault-Tolerant Control with High-Order Control Barrier Functions](https://doi.org/10.1109/TASE.2025.3563189), **Linhao Zhao**, Lu Wang, Yuting Cao, Yin Yang, Shiping Wen, **IEEE Transactions on Automation Science and Engineering**, 2025. 
