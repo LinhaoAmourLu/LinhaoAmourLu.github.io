@@ -23,8 +23,8 @@ My research interest includes control theory and machine learning. The major top
 
 
 # 🔥 Recent News
-- *2025.04*: &nbsp;🎉 Our paper is accepted by IEEE Transactions on Automzation Science and Engineering.
-- *2025.01*: &nbsp;🎉 Our paper is accepted by IEEE Transactions on Cybernetics. 
+- *2025.04*: &nbsp;🎉 Our paper is published on IEEE Transactions on Automation Science and Engineering.
+- *2025.01*: &nbsp;🎉 Our paper is published on IEEE Transactions on Cybernetics. 
 - *2024.09*: &nbsp;🎉 Our paper is published on International Journal of Network Dynamics and Intelligence.
 - *2023.06*: &nbsp;🎉 Our paper is published on Neural Networks.
 - *2023.02*: &nbsp;🎉 Our paper is published on IEEE Transactions on Network Science and Engineering.
@@ -93,8 +93,11 @@ My research interest includes control theory and machine learning. The major top
 - *2021.07 - 2021.09*, Web Developer, Tianjin Baidarui Co., Ltd., Tianjin, China.
 
 # 🔎 Peer Review Activities
+- IEEE transactions on automation science and engineering.
 - IEEE transactions on neural networks and learning systems.
 - IEEE/CAA journal of automatica sinica.
 - IEEE transactions on circuits and systems.
 - Neural networks.
 - International journal of robust and nonlinear control.
+- European journal of control.
+- Expert systems.
