@@ -23,6 +23,7 @@ My research interest includes control theory and machine learning. The major top
 
 
 # 🔥 Recent News
+- *2025.11*: &nbsp;🎉 Our paper is accepted by IEEE Transactions on Automation Science and Engineering.
 - *2025.04*: &nbsp;🎉 Our paper is published on IEEE Transactions on Automation Science and Engineering.
 - *2025.01*: &nbsp;🎉 Our paper is published on IEEE Transactions on Cybernetics. 
 - *2024.09*: &nbsp;🎉 Our paper is published on International Journal of Network Dynamics and Intelligence.
